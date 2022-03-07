@@ -7,6 +7,8 @@
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
+@import "components/chats.css";
+@import "components/badge.css";
 
 /* Screens */
 @import "screens/login.css";
@@ -16,4 +18,8 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; */
   color: #2e363e;
   font-family: "Open Sans", sans-serif; /* From google fonts. See the top line of this file */
+}
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
