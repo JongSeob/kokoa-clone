@@ -9,3 +9,13 @@
   justify-content: center;
   font-weight: 600;
 }
+
+.badge--no-number {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  /* position: absolute;
+  left: 30px;
+  bottom: 28px; */
+}
