@@ -49,3 +49,8 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__subtitle .fa-circle-exclamation {
+  margin-left: 5px;
+  color: red;
+}
