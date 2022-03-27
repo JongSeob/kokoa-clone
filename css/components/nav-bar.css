@@ -68,3 +68,12 @@
 .nav__btn:last-child {
   animation-delay: 0.8s;
 }
+.nav__fill-glass {
+  background-color: #2f373f;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 7px;
+  z-index: -1; /* used instead of visibility: hidden */
+}
